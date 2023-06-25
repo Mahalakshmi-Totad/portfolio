@@ -12,7 +12,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Project 1
 
-SapphireIMS
+ Fraud Detection 
+[Link to another page]([./another-page.html](https://github.com/Mahalakshmi-Totad/fraud_detection)).
 
 ## Project 2
 

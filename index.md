@@ -1,6 +1,7 @@
 # Generative AI , AI & ML Portfolio
 ---
 ## EYE FOR BLIND
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Mahalakshmi-Totad/EyeForBlind)
 
 In this capstone project,goal is to create a deep learning model which can explain the contents of an image in the form of speech through caption generation with an attention mechanism. This kind of model is a use-case for blind people so that they can understand any image with the help of speech. The caption generated through a CNN-RNN model will be converted to speech using a text to speech library. 
 
@@ -9,8 +10,6 @@ In this capstone project,goal is to create a deep learning model which can expla
 **Libraries Used :** tensorflow,  keras, nltk, numpy, pandas, sklearn, matplotlib, seaborn, gTTs <br>
 **Model Building:** This is the stage to create image captioning model by building **Encoder, Attention and Decoder model.** <br>
 **Model Evaluation:** Used **Greedy search** for evalution. **Achieved >60% BELU score** for most of the random images from test set.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Mahalakshmi-Totad/EyeForBlind)
 
 
 ## Fashion Search AI - a Generative Search System

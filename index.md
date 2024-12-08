@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# Project 1
-
- ### EYE FOR BLIND
+ ## EYE FOR BLIND
 [Github link to EYE FOR BLIND PROJECT](https://github.com/Mahalakshmi-Totad/EyeForBlind).
 **Problem statement**: In this capstone project,goal is to create a deep learning model which can explain the contents of an image in the form of speech through caption generation with an attention mechanism. This kind of model is a use-case for blind people so that they can understand any image with the help of speech. The caption generated through a CNN-RNN model will be converted to speech using a text to speech library. 
 
@@ -18,7 +16,7 @@ layout: default
 - **Model Building:** This is the stage to create image captioning model by building Encoder, Attention and Decoder model.
 - **Model Evaluation:** Evaluate the models using greedy search and BLEU score.
 
-** Model : Inception net V3 **
+**Model : Inception net V3**
 **Libraries Used : tensorflow,  keras, nltk, numpy, pandas, sklearn, matplotlib, seaborn, gTTs**
   
 - Successfully created the dataset according as required by Inception net V3 
@@ -28,7 +26,6 @@ layout: default
 - Achieved >60% BELU score for most of the random images from test set on which model was tested
 
   
-## Project 2
+## SemanticSpotterFashionSearchAI
 
-Target Reliability Systems
 

@@ -51,5 +51,6 @@ Book Recommendation Chatbot can be used to discover exciting books tailored to u
 
 **Model used:** ChatGPT model gpt-3.5-turbo
 
-<center><img src="/assets/img/SystemDesign.jpg"/></center>
+
+<center><img src="images/SystemDesign.jpg"/></center>
 

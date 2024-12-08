@@ -1,6 +1,17 @@
 title: Mahalakshmi Totad
 logo: /assets/img/MJ.jpg
-description: Projects Portfolio
-show_downloads: true
-google_analytics:
+description: 
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
+  <a href="https://github.com/sajankedia">GitHub</a>
+
+ <br>   
+  I'm working as Senior Engineer.
+  My day to day techlogies involve ReactJS, Kotlin, Micronaut. 
+  I'm aspiring to work with Generative AI & Machine learning related problems.
+  <br>
+  </p>
+
+
 theme: jekyll-theme-minimal
